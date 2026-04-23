@@ -1,6 +1,6 @@
 import pygame
 from settings import SCREEN_WIDTH, SCREEN_HEIGHT, FPS, img
-from core.game import Game
+from core.game.game import Game
 import sys, os
 
 class Menu:

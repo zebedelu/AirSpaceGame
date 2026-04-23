@@ -1,6 +1,6 @@
 import pygame
 from settings import SCREEN_WIDTH, img
-from core.entities import Enemie
+from core.entites.entities import Enemie
 import random
 
 class EnemiesGerence():

@@ -1,12 +1,12 @@
 import pygame
-from core.entities import Player
+from core.entites.entities import Player
 from settings import *
-from core.background import Background
-from core.effect import Effect
-from core.enemiesgerencer import EnemiesGerence
+from core.game.background import Background
+from core.effects.effect import Effect
+from core.entites.enemiesgerencer import EnemiesGerence
 import time
 import sys
-from core.gameover import GameOver
+from core.game.gameover import GameOver
 
 GAME_SPEED=5
 

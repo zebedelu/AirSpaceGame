@@ -1,8 +1,8 @@
-from core.airship import Airship
+from core.entites.airship import Airship
 import pygame
 from settings import SCREEN_HEIGHT, SCREEN_WIDTH, GAME_SPEED, img
 import random
-from core.shoot import Shoot
+from core.effects.shoot import Shoot
 
 class Player(Airship):
     def __init__(self, pos, game):
