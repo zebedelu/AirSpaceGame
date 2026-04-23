@@ -40,6 +40,7 @@ class Menu:
         self.startButton = pygame.image.load(img("assets/menu/start.png")).convert_alpha()
         self.startButton = pygame.transform.scale(self.startButton, (300,100))
         self.ranking = pygame.image.load(img("assets/menu/ranking.png")).convert_alpha()
+        self.ranking = pygame.transform.hsl(self.ranking, 0, -1)
         self.ranking = pygame.transform.scale(self.ranking, (300,100))
         self.sair = pygame.image.load(img("assets/menu/sair.png")).convert_alpha()
         self.sair = pygame.transform.scale(self.sair, (300,100))
@@ -62,7 +63,7 @@ class Menu:
             (self.sair, sair_rect, sys.exit)
         ]
     def openyoutube(self):
-        os.system("start brave.exe youtube.com")
+        os.system("start https://www.youtube.com/watch?v=YxJSP2abny0")
 
     def start(self):
         Game(self).run()

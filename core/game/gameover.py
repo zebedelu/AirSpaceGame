@@ -23,7 +23,7 @@ class GameOver:
         self.RetryButton = pygame.image.load(img("assets/menu/retry.png")).convert_alpha()
         self.RetryButton = pygame.transform.scale(self.RetryButton, (300,100))
 
-        self.BackMenu = pygame.image.load(img("assets/menu/retry.png")).convert_alpha()
+        self.BackMenu = pygame.image.load(img("assets/menu/sair.png")).convert_alpha()
         self.BackMenu = pygame.transform.scale(self.BackMenu, (300,100))
         
     def render_clicks(self, mousePosition):
