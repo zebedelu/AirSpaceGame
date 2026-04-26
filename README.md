@@ -3,7 +3,7 @@
 Um jogo simples de nave espacial desenvolvido em Python e com muito café
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-FFDD00?style=flat&logo=pygame&logoColor=black)
+![Pygame](https://img.shields.io/badge/Pygame-FFDD00?style=flat&logo=python&logoColor=black)
 ![POO](https://img.shields.io/badge/POO-Object%20Oriented%20Programming-4B0082?style=flat)
 
 ## Sobre o projeto
