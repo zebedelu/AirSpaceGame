@@ -50,6 +50,13 @@ python main.py
 
 ## Pronto!
 
+## Nas proximas atualizações
+- Adicionar um Ranking funcional
+- Melhorar a IA dos inimigos
+- Adicionar bosses
+- Escolher a skin da nave
+- Sistema de fases
+
 ## Motivação
 Como estudante de Técnico em Informática no IFC Campus Concórdia, estou sempre buscando evoluir minha lógica de programação e testar diferentes abordagens. Projetos como esse me ajudam a reforçar o que aprendo na sala de aula e a me divertir no processo.
 Se você também gosta de jogos simples feitos com carinho e código organizado, sinta-se à vontade para explorar, dar sugestões e contribuir para o jogo!
